@@ -1,0 +1,22 @@
+# Large data files
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.parquet
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Outputs
+results/
+figures/
+logs/
